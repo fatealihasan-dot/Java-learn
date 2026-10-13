@@ -1,0 +1,6 @@
+{
+  "name": "JavaTrack",
+  "description": "জাভা প্রোগ্রামিং শেখার ইন্টারঅ্যাক্টিভ রোডম্যাপ, অগ্রগতি ট্র্যাকার ও প্র্যাকটিস অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
